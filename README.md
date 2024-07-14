@@ -4,7 +4,7 @@ This is a weather app using React.js. It allows users to search for the weather 
 
 # Github link
 
-(https://github.com/vinay156/react-weather-app)
+(https://github.com/vinay156/weather-app-react)
 
 # Features
 
